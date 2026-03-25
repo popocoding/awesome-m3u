@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://radddio.com/img/31710261-0b76-11e9-a80b-52543be04c81.webp" group-title="Singapore",YES 933 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/a949b7f0-0b79-11e9-a80b-52543be04c81.webp" group-title="Singapore",Warna 942 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/fff132f1-0b79-11e9-a80b-52543be04c81.webp" group-title="Singapore",Love 972 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Jia 883 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",UFM 100.3 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/7036e1ed-0b7d-11e9-a80b-52543be04c81.webp" group-title="Singapore",Capital 958 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/b1a05101-0b76-11e9-a80b-52543be04c81.webp" group-title="Singapore",Class 95 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/bfa448fd-2b74-4a60-a78d-7fea62cc0577.webp" group-title="Singapore",CNA 938 Live Singapore
+http://22393.live.streamtheworld.com:80/938NOW_PREM_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/img/106c22a4-0b78-11e9-a80b-52543be04c81.webp" group-title="Singapore",Gold 905 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",SPH 963 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/19fb2bc2-0b7f-11e9-a80b-52543be04c81.webp" group-title="Singapore",Oli 968 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/7d166dec-8dbf-46e6-8449-c12466c1c0f4.webp" group-title="Singapore",Channel News Asia TV
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://radddio.com/img/82102b0e-68e9-411e-87b8-7cae36046096.webp" group-title="Singapore",987FM
+https://22393.live.streamtheworld.com/987FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/9c64379c-0b77-11e9-a80b-52543be04c81.webp" group-title="Singapore",Mediacorp 987 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/5027e04c-0b7a-11e9-a80b-52543be04c81.webp" group-title="Singapore",Symphony 924 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/a46e2092-0b7a-11e9-a80b-52543be04c81.webp" group-title="Singapore",Ria 897 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/96141efc-0601-11e8-ae97-52543be04c81.webp" group-title="Singapore",ONE FM Singapore
+http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp
+#EXTINF:-1 tvg-logo="https://radddio.com/img/8c8b010b-07ec-4c69-a668-3c600d95e9bf.webp" group-title="Singapore",Oli 96.8 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",AXR Singapore
+http://singaporestream.axr.online/
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",CNA938
+http://28323.live.streamtheworld.com:80/938NOW_PREM/HLS/3f99d887-64f8-4017-9997-4f2b2988385d/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Power 98 Love Songs
+https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
+#EXTINF:-1 tvg-logo="https://radddio.com/img/3118adbf-0b7e-11e9-a80b-52543be04c81.webp" group-title="Singapore",938 Now Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/1ada4b42-53e9-460f-8fa2-631c2c75801c.webp" group-title="Singapore",GOLD 905
+https://22403.live.streamtheworld.com/GOLD905_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Yes 933
+https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Money 893 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/4d1d714a-904d-4c33-abd4-a19da2ffbfb6.webp" group-title="Singapore",CNA 938
+https://22893.live.streamtheworld.com/938NOW_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",ONE FM 91.3 SPH AAC
+http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Radio Melody with Brother Bjorn
+http://ssl.geckohost.nz:9191/autodj
+#EXTINF:-1 tvg-logo="https://radddio.com/img/ec8dafec-03b5-49d7-934d-a70817e2755a.webp" group-title="Singapore",987
+https://14033.live.streamtheworld.com/987FM_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Singapore Chinese POP YES FM 933
+https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore
+#EXTINF:-1 tvg-logo="https://radddio.com/img/ec714979-7130-483a-b25d-d2642b47e82c.webp" group-title="Singapore",One FM 91.3
+https://28153.live.streamtheworld.com:443/ONE_FM_913AAC_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",AXR Singapore
+http://22253.live.streamtheworld.com:80/AXR_SINGAPORE_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/img/722e9620-5c47-4139-b4ae-9d3a2ffd2bd5.webp" group-title="Singapore",RIA 897
+https://22393.live.streamtheworld.com/RIA897FM_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",kiss92
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/img/eef37dac-e2b2-4f37-bb86-81ac3fe65135.webp" group-title="Singapore",CAPITAL 958
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6.webp" group-title="Singapore",LOVE 972
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Ufm 1003
+http://28093.live.streamtheworld.com/UFM_1003AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Love 972
+http://22903.live.streamtheworld.com/LOVE972FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/a0d91c55-3965-4a03-a0b7-2e76c8faa2cd.webp" group-title="Singapore",YES 933
+https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/4c0c6e5a-e891-4879-8171-61e783c1f562.webp" group-title="Singapore",Money FM 89.3
+https://22243.live.streamtheworld.com/MONEY_893AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=f94bbefc-acee-4c13-ed7b-9accdb44b7a2
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",973FM: Blasts That Last radio
+https://c16.radioboss.fm:18115/stream?icecast
+#EXTINF:-1 tvg-logo="https://radddio.com/img/95a5eca2-0341-443d-8343-7a1f6f58ea02.webp" group-title="Singapore",973FM Blasts That Last
+http://c16.radioboss.fm:8115/autodj
+#EXTINF:-1 tvg-logo="https://radddio.com/img/b81bb1bf-879e-4e04-83f2-b04d824c378b.webp" group-title="Singapore",GOLD 905
+https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",AXR Manila
+https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3
+#EXTINF:-1 tvg-logo="https://radddio.com/img/eff51d17-59b3-4e93-89df-df1b24416d0c.webp" group-title="Singapore",987
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Bible Witness Web Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC
+#EXTINF:-1 tvg-logo="https://radddio.com/img/aba522d0-e676-4098-b051-87e1db850716.webp" group-title="Singapore",CLASS 95
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/4b621a64-46d8-4115-a18a-740d0f161bad.webp" group-title="Singapore",Radio Melody with Brother Bjorn
+https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563
+#EXTINF:-1 tvg-logo="https://radddio.com/static/img/default-radio-icon.svg" group-title="Singapore",Yes 933
+http://28453.live.streamtheworld.com/YES933AAC.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/f699e43f-b717-41d1-8d05-b5e07506a2d0.webp" group-title="Singapore",WARNA 942
+https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/2e484061-ac27-4fec-92ed-d5924a77c17e.webp" group-title="Singapore",Symphony 924
+https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/ca8099de-1d34-424b-8a52-a1ee99ae6f4e.webp" group-title="Singapore",OLI 968
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/54ed3626-3156-456f-922f-f39864923ede.webp" group-title="Singapore",RIA 897
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/7c4653df-6d49-466f-896f-db2de5a19608.webp" group-title="Singapore",CNA938
+https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
+#EXTINF:-1 tvg-logo="https://radddio.com/img/9b866c6a-f3b5-4032-ad24-62856c925b4c.webp" group-title="Singapore",indiego
+https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac
