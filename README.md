@@ -31,6 +31,9 @@ https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/n
 ## China
 https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/cn.m3u
 
+## Russia
+https://raw.githubusercontent.com/popocoding/awesome-m3u/refs/heads/main/radio/ru.m3u
+
 # EPG
 
 # Player
